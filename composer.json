@@ -1,0 +1,16 @@
+{
+    "name": "rvn.plvhx/psr4-test",
+    "description": "Micro test for PSR-4 autoloader.",
+    "type": "metapackage",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Paulus Gandung Prakosa",
+            "email": "rvn.plvhx@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
